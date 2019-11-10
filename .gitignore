@@ -1,0 +1,5 @@
+database.db
+.vscode
+__pycache__
+.DS_Store
+.idea
